@@ -2,5 +2,5 @@
 A scraper script for instagram written in php.
 #usage:
 ```bash
-localhost/index.php?username=<username>
+$ localhost/index.php?username=<username>
 ```
